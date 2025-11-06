@@ -1,6 +1,6 @@
 ---
-name: 論文管理用テンプレート
-about: 統一フォーマットで論文を管理するため。
+name: issue_template
+about: 論文管理用テンプレート
 title: ''
 labels: ''
 assignees: oyuya0113
