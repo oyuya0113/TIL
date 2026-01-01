@@ -28,3 +28,7 @@
 
 [Qwen3-VL Technical Report](https://arxiv.org/pdf/2511.21631)<br>
 　-> Qwen3-VLモデルに関する論文
+
+## その他メモ
+- LLMエージェントの品質保証に関する論文（ガイドライン）を要調査
+- LLMの暗黙知に関する論文を要調査
