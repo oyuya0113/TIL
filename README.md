@@ -106,13 +106,18 @@ TBD
 - [Agent Skills](https://agentskills.io/home)
 
 ### Ollama
-- [Ollama](https://ollama.com/)（★）
+- [Ollama](https://ollama.com/)
 
 ### vLLM
-- [vLLM](https://vllm.ai/)（★）
+- [vLLM Docs](https://docs.vllm.ai/en/latest/)（★ KVキャッシュをブロック単位に分割する手法）
+- [Efficient Memory Management for Large Language Model Serving with PagedAttention](https://arxiv.org/pdf/2309.06180)
+
+### LMCache
+- [LMCache Docs](https://docs.lmcache.ai/)（KVキャッシュの管理機能。LMCache ConnectorはvLLMと互換性あり）
+- [LMCache: An Efficient KV Cache Layer for Enterprise-Scale LLM Inference](https://arxiv.org/pdf/2510.09665)
 
 ### Llama.cpp
-- [Llama.cpp](https://github.com/ggml-org/llama.cpp)
+- [Llama.cpp](https://github.com/ggml-org/llama.cpp)（★）
 
 ### TensorRT-LLM
 - [TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM)
