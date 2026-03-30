@@ -59,9 +59,11 @@ TBD
 - ~~[Cognitive Architectures for Language Agents](https://arxiv.org/pdf/2309.02427)~~（[Issue投稿済](https://github.com/oyuya0113/TIL/issues/6)）
 - ~~[LLM-Agent-Controller: A Universal Multi-Agent Large Language Model System as a Control Engineer](https://arxiv.org/pdf/2505.19567)~~（[Issue投稿済](https://github.com/oyuya0113/TIL/issues/1)）
 - [BUILDING COOPERATIVE EMBODIED AGENTS MODULARLY WITH LARGE LANGUAGE MODELS](https://arxiv.org/pdf/2307.02485)（★ メモリ機能の有無によりスコアが大幅に変化することを示した論文）
-- [Memory in the Age of AI Agents: A Survey](https://arxiv.org/pdf/2512.13564)（★ メモリ機能を体系的に纏めた論文。107ページある）
-- [A-Mem: Agentic Memory for LLM Agents](https://arxiv.org/pdf/2502.12110)（メモリ機能に関する論文）
+- [Memory in the Age of AI Agents: A Survey](https://arxiv.org/pdf/2512.13564)（メモリ機能を体系的に纏めた論文。107ページある）
 - [VOYAGER: An Open-Ended Embodied Agent with Large Language Models](https://arxiv.org/pdf/2305.16291)
+- [GAF-GUARD: AN AGENTIC FRAMEWORK FOR RISK MANAGEMENT AND GOVERNANCE IN LARGE LANGUAGE MODELS](https://arxiv.org/pdf/2507.02986)（★★★ ソースコード有）
+- [MA-RAG: MULTI-AGENT RETRIEVAL-AUGMENTED GENERATION VIA COLLABORATIVE CHAIN-OFTHOUGHT REASONING](https://arxiv.org/pdf/2505.20096)（★★★ ソースコード有。GAF-GUARDに比べて古い）
+- [WirelessAgent: Large Language Model Agents for Intelligent Wireless Networks](https://arxiv.org/pdf/2505.01074)（★ ソースコード有（ただし最終更新日が1年前））
 
 ### エージェント形態（マルチエージェント）
 - ~~[AGENTNET: DECENTRALIZED EVOLUTIONARY COORDINATION FOR LLM-BASED MULTI-AGENT SYSTEMS](https://arxiv.org/pdf/2504.00587)~~（[Issue投稿済](https://github.com/oyuya0113/TIL/issues/4)）
@@ -70,7 +72,7 @@ TBD
 - [Distributional AGI Safety](https://arxiv.org/pdf/2512.16856)（AGIは、多数のAgentが組み合わさった集合体として出現することを主張している論文）
 - [Improving Multi-Agent Debate with Sparse Communication Topology](https://arxiv.org/pdf/2406.11776)（MASのネットワークに関する論文）
 - [Understanding the Information Propagation Effects of Communication Topologies in LLM-based Multi-Agent Systems](https://arxiv.org/pdf/2505.23352)（MASのネットワークに関する論文②）
-- [LLM-LCSA: LLM for Collaborative Control and Decision Optimization in UAV Cluster Security](https://www.mdpi.com/2504-446X/9/11/779)（★）
+- [LLM-LCSA: LLM for Collaborative Control and Decision Optimization in UAV Cluster Security](https://www.mdpi.com/2504-446X/9/11/779)（★★）
 
 
 ## RAG（Retrieval-Augmented Generation）
@@ -89,10 +91,10 @@ TBD
 
 ## 各種フレームワーク
 ### LangChain, LangGraph
-- [create_agent](https://reference.langchain.com/python/langchain/agents/factory/create_agent)（★）
-- [Middleware](https://docs.langchain.com/oss/python/langchain/middleware/overview)（interrupt_before及びinterrupt_afterとは何が違う？）
+- [create_agent](https://reference.langchain.com/python/langchain/agents/factory/create_agent)
+- [Middleware](https://docs.langchain.com/oss/python/langchain/middleware/overview)（★ interrupt_before及びinterrupt_afterとは何が違う？）
 - [MIROSTAT](https://arxiv.org/abs/2007.14966)（create_agentの引数の一つ。何者なのか分かっていない）
-- [LangMem](https://langchain-ai.github.io/langmem/)（長期記憶を管理できるライブラリ）（★）
+- [LangMem](https://langchain-ai.github.io/langmem/)（長期記憶を管理できるライブラリ）
 - [SubAgents](https://docs.langchain.com/oss/python/langchain/multi-agent/subagents)（★）
 - [Deep Agents](https://github.com/langchain-ai/deepagents)
 
@@ -100,20 +102,20 @@ TBD
 TBD
 
 ### Mem0
-- [Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory](https://arxiv.org/pdf/2504.19413)（★）
+- [Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory](https://arxiv.org/pdf/2504.19413)（★★）
 
 ### Agent Skills
-- [Agent Skills](https://agentskills.io/home)
+- [Agent Skills](https://agentskills.io/home)（★）
 
 ### Ollama
 - [Ollama](https://ollama.com/)
 
 ### vLLM
-- [vLLM Docs](https://docs.vllm.ai/en/latest/)（★ KVキャッシュをブロック単位に分割する手法）
+- [vLLM Docs](https://docs.vllm.ai/en/latest/)（★★ KVキャッシュをブロック単位に分割する手法）
 - [Efficient Memory Management for Large Language Model Serving with PagedAttention](https://arxiv.org/pdf/2309.06180)
 
 ### LMCache
-- [LMCache Docs](https://docs.lmcache.ai/)（KVキャッシュの管理機能。LMCache ConnectorはvLLMと互換性あり）
+- [LMCache Docs](https://docs.lmcache.ai/)（★★ KVキャッシュの管理機能。LMCache ConnectorはvLLMと互換性あり）
 - [LMCache: An Efficient KV Cache Layer for Enterprise-Scale LLM Inference](https://arxiv.org/pdf/2510.09665)
 
 ### Llama.cpp
