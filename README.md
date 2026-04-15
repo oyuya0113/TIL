@@ -63,9 +63,9 @@ TBD
 - [BUILDING COOPERATIVE EMBODIED AGENTS MODULARLY WITH LARGE LANGUAGE MODELS](https://arxiv.org/pdf/2307.02485)（★ メモリ機能の有無によりスコアが大幅に変化することを示した論文）
 - [Memory in the Age of AI Agents: A Survey](https://arxiv.org/pdf/2512.13564)（メモリ機能を体系的に纏めた論文。107ページある）
 - [VOYAGER: An Open-Ended Embodied Agent with Large Language Models](https://arxiv.org/pdf/2305.16291)
+- [langgraph-multi-agent-supervisor](https://github.com/pdichone/langgraph-multi-agent-supervisor/tree/main)（★★★ 大変参考になりそうなソースコード有）
+- [Ambient Agent](https://github.com/langchain-ai/ambient-agent-101/tree/main)（LangChain公式のAmbient Agentのソースコード有）
 - [GAF-GUARD: AN AGENTIC FRAMEWORK FOR RISK MANAGEMENT AND GOVERNANCE IN LARGE LANGUAGE MODELS](https://arxiv.org/pdf/2507.02986)（★★★ ソースコード有）
-- [MA-RAG: MULTI-AGENT RETRIEVAL-AUGMENTED GENERATION VIA COLLABORATIVE CHAIN-OFTHOUGHT REASONING](https://arxiv.org/pdf/2505.20096)（★★★ ソースコード有。GAF-GUARDに比べて古い）
-- [WirelessAgent: Large Language Model Agents for Intelligent Wireless Networks](https://arxiv.org/pdf/2505.01074)（★ ソースコード有（ただし最終更新日が1年前））
 
 ### エージェント形態（マルチエージェント）
 - ~~[AGENTNET: DECENTRALIZED EVOLUTIONARY COORDINATION FOR LLM-BASED MULTI-AGENT SYSTEMS](https://arxiv.org/pdf/2504.00587)~~（[Issue投稿済](https://github.com/oyuya0113/TIL/issues/4)）
