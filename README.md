@@ -2,6 +2,8 @@
 ### LLM（Large Language Model）
 - [gpt-ossのモデルカード](https://arxiv.org/pdf/2508.10925)
 - [Llama Nemotron](https://arxiv.org/pdf/2505.00949)
+- [Gemma 4](https://ai.google.dev/gemma/docs/core/model_card_4?hl=ja)
+- [llm-jp-4](https://llm-jp.nii.ac.jp/release/)
 
 ### VLM（Vision-Language Model）
 - ~~[LLaVA](https://arxiv.org/pdf/2304.08485)~~
@@ -97,6 +99,7 @@ TBD
 - [LangMem](https://langchain-ai.github.io/langmem/)（長期記憶を管理できるライブラリ）
 - [SubAgents](https://docs.langchain.com/oss/python/langchain/multi-agent/subagents)（★）
 - [Deep Agents](https://github.com/langchain-ai/deepagents)
+- [NodeInterrupt](https://blog.generative-agents.co.jp/entry/2024/09/09/164346)（強制的に親ノードへreturnする）
 
 ### LangSmith, LangFuse
 TBD
