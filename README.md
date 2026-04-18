@@ -63,7 +63,7 @@ TBD
 - [BUILDING COOPERATIVE EMBODIED AGENTS MODULARLY WITH LARGE LANGUAGE MODELS](https://arxiv.org/pdf/2307.02485)（★ メモリ機能の有無によりスコアが大幅に変化することを示した論文）
 - [Memory in the Age of AI Agents: A Survey](https://arxiv.org/pdf/2512.13564)（メモリ機能を体系的に纏めた論文。107ページある）
 - [VOYAGER: An Open-Ended Embodied Agent with Large Language Models](https://arxiv.org/pdf/2305.16291)
-- [langgraph-multi-agent-supervisor](https://github.com/pdichone/langgraph-multi-agent-supervisor/tree/main)（★★★ 大変参考になりそうなソースコード有）
+- ~~[langgraph-multi-agent-supervisor](https://github.com/pdichone/langgraph-multi-agent-supervisor/tree/main)~~（大変参考になりそうなソースコード有）
 - [sample-ambient-agents-on-agentcore](https://github.com/aws-samples/sample-ambient-agents-on-agentcore)（★★★ AWS公式のAmbient Agentのソースコード有）
 - [ambient-agent-101](https://github.com/langchain-ai/ambient-agent-101/tree/main)（★★ LangChain公式のAmbient Agentのソースコード有）
 - [GAF-GUARD: AN AGENTIC FRAMEWORK FOR RISK MANAGEMENT AND GOVERNANCE IN LARGE LANGUAGE MODELS](https://arxiv.org/pdf/2507.02986)（★★★ ソースコード有）
