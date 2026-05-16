@@ -63,10 +63,7 @@ TBD
 - [BUILDING COOPERATIVE EMBODIED AGENTS MODULARLY WITH LARGE LANGUAGE MODELS](https://arxiv.org/pdf/2307.02485)（★ メモリ機能の有無によりスコアが大幅に変化することを示した論文）
 - [Memory in the Age of AI Agents: A Survey](https://arxiv.org/pdf/2512.13564)（メモリ機能を体系的に纏めた論文。107ページある）
 - [VOYAGER: An Open-Ended Embodied Agent with Large Language Models](https://arxiv.org/pdf/2305.16291)
-- ~~[langgraph-multi-agent-supervisor](https://github.com/pdichone/langgraph-multi-agent-supervisor/tree/main)~~（大変参考になりそうなソースコード有）
-- [sample-ambient-agents-on-agentcore](https://github.com/aws-samples/sample-ambient-agents-on-agentcore)（★★★ AWS公式のAmbient Agentのソースコード有）
-- [ambient-agent-101](https://github.com/langchain-ai/ambient-agent-101/tree/main)（★★ LangChain公式のAmbient Agentのソースコード有）
-- [GAF-GUARD: AN AGENTIC FRAMEWORK FOR RISK MANAGEMENT AND GOVERNANCE IN LARGE LANGUAGE MODELS](https://arxiv.org/pdf/2507.02986)（★★★ ソースコード有）
+- [Plan-and-Execute Agents](https://www.langchain.com/blog/planning-agents)（★★★ LangChain公式の Plan-and-Execute エージェントに関する説明）
 
 ### エージェント形態（マルチエージェント）
 - ~~[AGENTNET: DECENTRALIZED EVOLUTIONARY COORDINATION FOR LLM-BASED MULTI-AGENT SYSTEMS](https://arxiv.org/pdf/2504.00587)~~（[Issue投稿済](https://github.com/oyuya0113/TIL/issues/4)）
@@ -76,6 +73,13 @@ TBD
 - [Improving Multi-Agent Debate with Sparse Communication Topology](https://arxiv.org/pdf/2406.11776)（MASのネットワークに関する論文）
 - [Understanding the Information Propagation Effects of Communication Topologies in LLM-based Multi-Agent Systems](https://arxiv.org/pdf/2505.23352)（MASのネットワークに関する論文②）
 - [LLM-LCSA: LLM for Collaborative Control and Decision Optimization in UAV Cluster Security](https://www.mdpi.com/2504-446X/9/11/779)（★★）
+
+### ソースコード
+- ~~[langgraph-multi-agent-supervisor](https://github.com/pdichone/langgraph-multi-agent-supervisor/tree/main)~~（★★★ ソースコード例 その①）
+- ~~[What is the best way to implement Plan and Execute with LangChain 1.0 and LangGraph](https://forum.langchain.com/t/what-is-the-best-way-to-implement-plan-and-execute-with-langchain-1-0-and-langgraph/2205)~~（★★ ソースコード例 その②）
+- [sample-ambient-agents-on-agentcore](https://github.com/aws-samples/sample-ambient-agents-on-agentcore)（★★★ AWS公式の Ambient Agent のソースコード例）
+- [ambient-agent-101](https://github.com/langchain-ai/ambient-agent-101/tree/main)（★★ LangChain公式の Ambient Agent のソースコード例）
+- [GAF-GUARD: AN AGENTIC FRAMEWORK FOR RISK MANAGEMENT AND GOVERNANCE IN LARGE LANGUAGE MODELS](https://arxiv.org/pdf/2507.02986)（★★★ ソースコード例）
 
 
 ## RAG（Retrieval-Augmented Generation）
