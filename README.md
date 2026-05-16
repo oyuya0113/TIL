@@ -77,9 +77,9 @@ TBD
 ### ソースコード
 - ~~[langgraph-multi-agent-supervisor](https://github.com/pdichone/langgraph-multi-agent-supervisor/tree/main)~~（★★★ ソースコード例 その①）
 - ~~[What is the best way to implement Plan and Execute with LangChain 1.0 and LangGraph](https://forum.langchain.com/t/what-is-the-best-way-to-implement-plan-and-execute-with-langchain-1-0-and-langgraph/2205)~~（★★ ソースコード例 その②）
+- [GAF-GUARD: AN AGENTIC FRAMEWORK FOR RISK MANAGEMENT AND GOVERNANCE IN LARGE LANGUAGE MODELS](https://arxiv.org/pdf/2507.02986)（★★★ ソースコード例）
 - [sample-ambient-agents-on-agentcore](https://github.com/aws-samples/sample-ambient-agents-on-agentcore)（★★★ AWS公式の Ambient Agent のソースコード例）
 - [ambient-agent-101](https://github.com/langchain-ai/ambient-agent-101/tree/main)（★★ LangChain公式の Ambient Agent のソースコード例）
-- [GAF-GUARD: AN AGENTIC FRAMEWORK FOR RISK MANAGEMENT AND GOVERNANCE IN LARGE LANGUAGE MODELS](https://arxiv.org/pdf/2507.02986)（★★★ ソースコード例）
 
 
 ## RAG（Retrieval-Augmented Generation）
