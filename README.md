@@ -136,4 +136,6 @@ TBD
 - [Position: Levels of AGI for Operationalizing Progress on the Path to AGI](https://arxiv.org/pdf/2311.02462)（AGIのレベルを定義した論文。NLP2026にて紹介あり）
 - ~~[形式論理学に基づく演繹コーパスによる言語モデルに対する演繹推論能力の付与](https://speakerdeck.com/morishtr/xing-shi-lun-li-xue-niji-dukuyan-yi-kopasuniyoru-yan-yu-moderunidui-suruyan-yi-tui-lun-neng-li-nofu-yu)~~（NLP2026の招待論文セッションで発表があった論文）
 - [Outsmarting Agile Adversaries in the Electromagnetic Spectrum](https://www.rand.org/pubs/research_reports/RRA981-1.html)（コンテナ技術はCognitive EWでは重要だという考えを主張している文献）
+- [Thinking Machines Lab](https://thinkingmachines.ai/)（音声や映像、テキストなどをリアルタイム処理できるAIモデル）
+- [AICX協会](https://aicx.jp/corporate/news/0KYJ7qTn)（AIエージェント実装人材の資格制度を創設）
 
